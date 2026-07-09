@@ -1,12 +1,6 @@
 # github-learning-portfolio
 My learning journey and portfolio for Git, Python, and ... what else?
 
-# GitHub Learning Portfolio
-
-## About Me
-
-I am building this portfolio to document my learning journey and share my progress.
-
 ## Purpose
 
 - Learn Git and GitHub
@@ -18,7 +12,6 @@ I am building this portfolio to document my learning journey and share my progre
 - Git / GitHub
 - Markdown
 - Python
-- SQL
 
 ## Roadmap
 
